@@ -110,6 +110,18 @@ employee-portfolio/
 
 ---
 
+
+## Live Demo
+
+The live version of the Employee Portfolio Website can be accessed using the link below:
+
+Live Demo:
+https://rajwant64.github.io/employee-portfolio/
+
+
+---
+
+
 ## 📄 Website Pages
 
 ### 🏠 Home Page
