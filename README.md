@@ -111,11 +111,7 @@ employee-portfolio/
 ---
 
 
-## Live Demo
-
-The live version of the Employee Portfolio Website can be accessed using the link below:
-
-Live Demo: https://rajwant-raj.github.io/employee-portfolio/
+## Live Demo: https://rajwant-raj.github.io/employee-portfolio/
 
 
 ---
@@ -127,35 +123,28 @@ Live Demo: https://rajwant-raj.github.io/employee-portfolio/
 
 The homepage introduces the startup and highlights selected members of the team.
 
-![Home Page](https://raw.githubusercontent.com/YOUR-USERNAME/employee-portfolio/main/screenshots/home.png)
+![Home Page](./screenshots/home.png)
 
 
 ### ℹ️ About Page
 
 The About page explains the purpose of the platform and highlights the organization's focus on talent, innovation, and collaboration.
 
-![About Page](https://raw.githubusercontent.com/YOUR-USERNAME/employee-portfolio/main/screenshots/about.png)
+![About Page](./screenshots/about.png)
 
 
 ### 👥 Employees Page
 
 The Employees page displays employee cards containing their names, roles, skills, and short descriptions.
 
-![Employees Page](https://raw.githubusercontent.com/YOUR-USERNAME/employee-portfolio/main/screenshots/employees.png)
-
-
-### 👤 Employee Portfolio Page
-
-The Employee Portfolio page provides detailed information about an individual employee, including their skills, projects, experience, and contact information.
-
-![Employee Portfolio](https://raw.githubusercontent.com/YOUR-USERNAME/employee-portfolio/main/screenshots/employee.png)
+![Employees Page](./screenshots/employees.png)
 
 
 ### 📩 Contact Page
 
 The Contact page provides contact information and an interactive contact form.
 
-![Contact Page](https://raw.githubusercontent.com/YOUR-USERNAME/employee-portfolio/main/screenshots/contact.png)
+![Contact Page](./screenshots/contact.png)
 
 
 ---
@@ -333,7 +322,3 @@ The project provides a responsive and user-friendly interface for presenting emp
 **Name:** Rajwant Raj
 
 ---
-
-
-**Live Demo:**
-https://YOUR-USERNAME.github.io/employee-portfolio/
